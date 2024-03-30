@@ -1,0 +1,28 @@
+.container-photo{
+  
+}
+
+.contact-photo{
+    border-radius: 50px;
+    border: 1px solid black;
+    padding: 10px;
+    margin:10px
+}
+
+.grid-interests{
+    position: relative;;
+}
+
+.grid-interests-element1{
+    position: absolute;
+}
+
+.grid-interests-element2{
+    position: absolute;
+    margin-top: 40px;
+}
+
+.grid-interests-element3{
+    position: absolute;
+    margin-top: 80px;
+}
