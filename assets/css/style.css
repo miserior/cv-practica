@@ -10,19 +10,9 @@
 }
 
 .grid-interests{
-    position: relative;;
+    position: relative;
 }
 
-.grid-interests-element1{
-    position: absolute;
-}
-
-.grid-interests-element2{
-    position: absolute;
-    margin-top: 40px;
-}
-
-.grid-interests-element3{
-    position: absolute;
-    margin-top: 80px;
+.grid-interests-element{
+    margin-top: 20px;
 }
