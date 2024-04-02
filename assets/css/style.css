@@ -10,9 +10,5 @@
 }
 
 .grid-interests{
-    position: relative;
-}
-
-.grid-interests-element{
-    margin-top: 20px;
+    display: flex;   
 }
